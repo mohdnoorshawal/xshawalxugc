@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mohdnoorshawal.github.io/xshawalxugc/sitemap.xml
